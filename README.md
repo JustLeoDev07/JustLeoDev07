@@ -18,7 +18,7 @@ IT support fundamentals and troubleshooting
 
 My interests
 
-Outside programming, I enjoy video games, Dungeons & Dragons, reading comics, watching films and listening to music. 
+Outside programming, I enjoy video games, Dungeons & Dragons, reading comics, watching formula 1, films and listening to music.
 
 My Current Projects:
 All of my projects are in the repositories below! Feel free to have a look. :)
