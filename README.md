@@ -8,13 +8,11 @@ I'm particularly interested in understanding how software works, solving problem
 
 What I'm currently learning:
 
-Python fundamentals, including functions, loops and conditional statements
+Understanding Python fundamentals and more advanced Python knowledge
 
-Writing and organising small Python programs
+Understanding programming terminology and key software developing processes
 
-Debugging and improving my code
-
-IT support fundamentals and troubleshooting
+Alongside this, I am expanding my interests in my freetime by making projects and stretching out to learn more about other areas in tech like networking etc.
 
 My interests
 
