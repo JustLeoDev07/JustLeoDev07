@@ -16,22 +16,9 @@ Debugging and improving my code
 
 IT support fundamentals and troubleshooting
 
-My projects
-
-D&D Character Creator (In Progress): A Python project inspired by my interest in Dungeons & Dragons.
-
-Password Generator: A completed Python project that generates passwords.
-
-https://github.com/bp4xgh856z-png/Python-Projects/blob/main/securepasswordgenerator.py
-
-Pokémon Battle Simulator: A completed Python project inspired by turn-based Pokémon battles.
-
-https://github.com/bp4xgh856z-png/Python-Projects/blob/main/pokemon.py
-
-Python Learning Notes: A collection of notes and examples documenting what I've learned while studying Python.
-
-https://github.com/bp4xgh856z-png/Python-Projects/blob/main/Learning_notes.py
-
 My interests
 
-Outside programming, I enjoy video games, Dungeons & Dragons, reading comics, watching films and listening to music.
+Outside programming, I enjoy video games, Dungeons & Dragons, reading comics, watching films and listening to music. 
+
+My Current Projects:
+All of my projects are in the repositories below! Feel free to have a look. :)
